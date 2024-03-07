@@ -1,1 +1,1 @@
-neki tekst na master grani
+dodaj tekst u fajl2 sa master i nova grana
